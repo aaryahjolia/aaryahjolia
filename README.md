@@ -54,12 +54,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/aaryahjolia/github-readme-activity-graph"><img alt="Aarya Ahjolia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aaryahjolia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
@@ -72,13 +66,15 @@
 
 </p>
 
+<br/>
+  
+[![](https://visitcount.itsvg.in/api?id=aaryahjolia&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+  
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=aaryahjolia">
 </a>
 <a href="https://github.com/aaryahjolia?tab=followers"><img src="https://img.shields.io/github/followers/aaryahjolia?label=Followers&style=social" alt="GitHub Badge"></a> -->
-
-<br/>
 
 <!-- <p><em><b>I love connecting with diverse people</b> so if you wanna to say <b>hi, I'll be happy to meet you more!</b> :)</em></p> -->
 </div>
