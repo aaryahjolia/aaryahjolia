@@ -68,7 +68,7 @@
 
 <br/>
   
-[![](https://visitcount.itsvg.in/api?id=aaryahjolia&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aaryahjolia&label=Profile%20Views&color=1&icon=5&pretty=true)](https://github.com/aaryahjolia)
   
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
