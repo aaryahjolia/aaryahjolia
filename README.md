@@ -8,35 +8,41 @@
 ## 🙋‍♂️ About Me
 </p>
 
-- 🔭 I’m currently pursuing **Computer Science** from **Nirma University, Gujarat**.
+- 👨‍💻 I currently debug large-scale code at Oracle
 
-- 🌱 I’m learning **Data Structures and Algorithms** & **Full Stack Development**.
+- 🔭 I’ve completed my B.Tech in **Computer Science** from **Nirma University, Gujarat**.
 
-- 📫 To reach me: **aaryaahjolia282@gmail.com**
+- 🌱 I constantly learn **Data Structures and Algorithms** & **Full Stack Development**.
 
-- ⚡ Relaxing fact - **I use to play games and listen to songs.**
+- 📫 Want to have a chat? Hit me up: **aaryaahjolia282@gmail.com**
+
+- ⚡ Fun fact - You will find me listening to songs or just staring at my desktop (either debugging or watching web series)
 <div align="center">  
   <br>  
   
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" alt="express" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind CSS" width="40" height="40"/></a>
+  
 </p>
 
 <br/>
+
+## 📊 My Github Stats
 
 <p align="center">
     <a href="https://github.com/aaryahjolia/github-readme-streak-stats">
@@ -45,7 +51,7 @@
 </p>
 <br>  
   
-## 📊 My Github Stats
+<!--
 
   <br/>
     <a href="https://github.com/aaryahjolia/github-readme-stats"><img alt="Aarya Ahjolia Github Stats" src="https://github-readme-stats.vercel.app/api?username=aaryahjolia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -56,13 +62,14 @@
 
 <br/>
 <br/>
+-->
 
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/aaryaahjolia/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/aaryap_282/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCNMAlIzjY-fvKg1Czpe9lqQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<!-- <a href = "https://www.instagram.com/aaryap_282/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+<!-- <a href = "https://www.youtube.com/channel/UCNMAlIzjY-fvKg1Czpe9lqQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
 
